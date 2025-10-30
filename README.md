@@ -6,7 +6,7 @@ This project demonstrates end-to-end automation skills using Python, Pytest, Sel
 
 
 
-Task 1: API Automation Using Requests
+-Task 1: API Automation Using Requests
 
 
 
@@ -20,7 +20,7 @@ Run: python api\_tests/api\_automation.py
 
 
 
-Task 2: Pytest Test Suite
+-Task 2: Pytest Test Suite
 
 
 
@@ -40,7 +40,7 @@ Run: pytest -v api\_tests/test\_api\_suite.py
 
 
 
-Task 3: Postman Automation
+-Task 3: Postman Automation
 
 
 
@@ -60,7 +60,7 @@ DELETE /posts/{id} – validate deletion
 
 
 
-Task 4: Selenium with Pytest Automation
+-Task 4: Selenium with Pytest Automation
 
 
 
@@ -76,7 +76,7 @@ Run: pytest -v selenium\_tests/test\_selenium\_practice.py
 
 
 
-Task 5: Strategy \& Leadership
+-Task 5: Strategy \& Leadership
 
 
 
